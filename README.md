@@ -29,7 +29,7 @@ Mobile Responsiveness: The layout is fully responsive and adapts to different sc
 Technologies Used
 This project was built from scratch, adhering to the constraint of not using any major CSS or JavaScript frameworks.
 
-HTML5: The structure is built with modern, semantic HTML5 tags like <header>, <section>, and <footer>.
+HTML5: The structure is built with modern, semantic HTML5 tags.
 
 CSS3: All styling, including the layout, animations, and responsive design, is done with custom CSS. It utilizes modern features like Flexbox, Grid, and custom variables.
 
